@@ -1,0 +1,1 @@
+Power management for kvm/vmware guests at RackRental/TSYS
